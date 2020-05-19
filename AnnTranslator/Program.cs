@@ -38,6 +38,7 @@ namespace AnnTranslator
             dirty = dirty.Replace("DOZ", "12");
             dirty = dirty.Replace("PLEASE", "");
             dirty = dirty.Replace("PLS", "");
+            dirty = dirty.Replace("ETC", "");
             dirty = dirty.Replace("/", "\n*");
 
             dirty = dirty.ToLower();
