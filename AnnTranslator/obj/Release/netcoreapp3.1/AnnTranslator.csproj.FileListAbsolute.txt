@@ -1,0 +1,13 @@
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\bin\Release\netcoreapp3.1\AnnTranslator.exe
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\bin\Release\netcoreapp3.1\AnnTranslator.deps.json
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\bin\Release\netcoreapp3.1\AnnTranslator.runtimeconfig.json
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\bin\Release\netcoreapp3.1\AnnTranslator.runtimeconfig.dev.json
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\bin\Release\netcoreapp3.1\AnnTranslator.dll
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\bin\Release\netcoreapp3.1\AnnTranslator.pdb
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\obj\Release\netcoreapp3.1\AnnTranslator.csprojAssemblyReference.cache
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\obj\Release\netcoreapp3.1\AnnTranslator.csproj.CoreCompileInputs.cache
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\obj\Release\netcoreapp3.1\AnnTranslator.AssemblyInfoInputs.cache
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\obj\Release\netcoreapp3.1\AnnTranslator.AssemblyInfo.cs
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\obj\Release\netcoreapp3.1\AnnTranslator.dll
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\obj\Release\netcoreapp3.1\AnnTranslator.pdb
+C:\Users\dnlma\Documents\Code\C#\AnnTranslator\AnnTranslator\obj\Release\netcoreapp3.1\AnnTranslator.genruntimeconfig.cache
